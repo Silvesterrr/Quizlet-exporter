@@ -48,7 +48,7 @@ być zepsutym,be out of order
 zepsuć się,break down 
 ...
 ```
-# Other
+# Requirements and Other
+Make sure that you have installed selenium ( `pip install selenium` ), and chrome browser. If the chromedriver added in the files won't work download it from this webside https://chromedriver.chromium.org/downloads (version equal to your chrome version). Chromedriver have to be in desame folder as the python file.  
 If you worried about me 'stealing' your account you can just make a fake one. unfortunately quizlet shows only about half of all 'words' if you're not logged in.  
-Make sure that you have installed selenium ( `pip install selenium` ), and you have the latest version of Chrome.
 Hope You like it. If you have any problems please contact me at: `sylwesterjarosz50@gmail.com`
