@@ -208,6 +208,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# username = 'hineci8643'
-# password = 'ZAQ!2wsx'
-# https://quizlet.com/MacmillanPolska/folders/repetytorium-do-szkol-ponadgimnazjalnych/sets
